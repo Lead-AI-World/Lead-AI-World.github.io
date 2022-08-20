@@ -117,9 +117,6 @@ author:
   location         : "Daejeon City, Republic of Korea"
   email            : "leadh991114@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:leadh991114@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://Lead-AI-World.github.io"
