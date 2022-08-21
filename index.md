@@ -13,7 +13,7 @@ feature_row:
   - image_path: assets/images/belief.jpg
     alt: "Belief"
     title: "Belief"
-    excerpt: "This contains my belief and vision.<br>저의 믿음과 비전에 대한 글입니다."
+    excerpt: "This contains my belief and vision.<br>제 믿음과 비전에 대한 글입니다."
     url: "/_pages/belief/"
     btn_label: "Read More"
     btn_class: "btn--primary"
