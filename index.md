@@ -10,9 +10,7 @@ excerpt: "Creating a better future by developing human-friendly AI.<br>I study A
 intro: 
   - excerpt: "Welcome to my blog. This blog contains my research, career and daily life.<br>I hope I can give you a lot of help and motivation."
 feature_row:
-  - image_path: assets/images/bio-photo.jpeg
-    alt: "biography img 1"
-    title: "biography img 1"
+  - image_path: assets/images/bio-photo-small.jpeg
     excerpt: "Dohyeon Lee, Research Officer for National Defense<br>To be a Philosopher, Scientist, Engineer, CEO, and an Artist"
 ---
 
