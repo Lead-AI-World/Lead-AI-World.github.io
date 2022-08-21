@@ -20,7 +20,7 @@ feature_row:
   - image_path: /assets/images/relation.jpg
     alt: "Relation"
     title: "Relation"
-    excerpt: "This contains knowledge and its relation between main ideas.<br>제 공부 기록입니다."
+    excerpt: "This contains my lab notes.<br>제 공부 기록입니다."
     url: "/_pages/relation/"
     btn_label: "Read More"
     btn_class: "btn--primary"
