@@ -113,7 +113,7 @@ analytics:
 author:
   name             : "이도현 | Dohyeon Lee"
   avatar           : "/assets/images/bio-photo.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "인간 친화적인 AI를 개발하여 보다 나은 미래를 만듭니다. 저는 인공지능과 의식을 연구합니다. > Creating a better future by developing human-friendly AI. I study AI and Consciousness."
+  bio              : "Creating a better future by developing human-friendly AI."
   location         : "Daejeon City, Republic of Korea"
   email            : "leadh991114@gmail.com"
   links:
