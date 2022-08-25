@@ -1,19 +1,11 @@
 ---
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: false
-      read_time: false
-      comments: true
-      share: true
-      related: true
+type: posts
+layout: single
+comments: true
+share: true
 
 title: "AMCS에 대해 알아보자"
-# last_modified_at: 2022-08-25
+last_modified_at: 2022-08-25
 
 toc: true
 toc_label: "About AMCS"
