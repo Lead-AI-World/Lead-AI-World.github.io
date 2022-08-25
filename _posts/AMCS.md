@@ -3,11 +3,11 @@ title: "AMCS에 대해 알아보자"
 last_modified_at: 2022-08-25T17:03:02-10:00
 
 categories: 
-	- "MCS"
+	- MCS
 tags:
-	- "MCS"
-	- "AMCS"
-	- "Community"
+	- MCS
+	- AMCS
+	- Community
 
 toc: true
 toc_label: "About AMCS"
