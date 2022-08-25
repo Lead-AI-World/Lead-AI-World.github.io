@@ -11,7 +11,7 @@ defaults:
       author_profile: false
 
 sidebar:
-  nav: "MCS"
+  nav: MCS
 ---
 
 ## 연구, 커리어, 지식
