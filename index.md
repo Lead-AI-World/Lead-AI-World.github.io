@@ -30,10 +30,6 @@ feature_row:
     url: "/_pages/life/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-
-
-sidebar:
-  nav: "main"
 ---
 
 {% include feature_row id="intro" type="center" %}
