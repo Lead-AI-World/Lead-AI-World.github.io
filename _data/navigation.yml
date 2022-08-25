@@ -8,3 +8,9 @@ main:
     url: /_pages/relation/
   - title: "Life"
     url: /_pages/life/
+
+MCS:
+  - title: MCS
+    children:
+      - title: "AMCS"
+        url: /_study/MCS/AMCS/
