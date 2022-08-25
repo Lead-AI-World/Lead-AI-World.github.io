@@ -6,7 +6,9 @@ title : "About"
 author_profile: true
 sidebar_main: false
 use_math: true
-toc : true
+
+toc: true
+toc_label: "Dohyeon Lee"
 toc_sticky: true	
 ---
 
