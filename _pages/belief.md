@@ -1,4 +1,7 @@
 ---
+type: posts
+layout: single
+
 title: "AMCS에 대해 알아보자"
 last_modified_at: 2022-08-25T17:03:02-10:00
 
