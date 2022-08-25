@@ -1,5 +1,4 @@
 ---
-type: posts
 layout: single
 comments: true
 share: true
