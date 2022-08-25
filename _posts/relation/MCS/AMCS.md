@@ -12,11 +12,8 @@ defaults:
       share: true
       related: true
 
-
 title: "AMCS에 대해 알아보자"
-last_modified_at: 2022-08-25
-categories: "Mathematical Consciousness Science"
-tags: "AMCS"
+# last_modified_at: 2022-08-25
 
 toc: true
 toc_label: "About AMCS"
