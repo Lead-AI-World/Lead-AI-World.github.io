@@ -1,6 +1,7 @@
 ---
 title: "Relation"
 type: pages
+classes: wide
 layout: single
 
 author_profile: false
