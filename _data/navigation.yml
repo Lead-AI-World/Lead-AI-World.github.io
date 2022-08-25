@@ -3,8 +3,8 @@ main:
   - title: "About"
     url: /about/
   - title: "Belief"
-    url: /pages/belief/
+    url: /_pages/belief/
   - title: "Relation"
-    url: /pages/relation/
+    url: /_pages/relation/
   - title: "Life"
-    url: /pages/life/
+    url: /_pages/life/
