@@ -10,7 +10,7 @@ main:
     url: /_pages/life/
 
 MCS:
-  - title: MCS
+  - title: "MCS"
     children:
       - title: "AMCS"
-        url: _posts/relation/MCS/
+        url: _posts/relation/MCS/AMCS
