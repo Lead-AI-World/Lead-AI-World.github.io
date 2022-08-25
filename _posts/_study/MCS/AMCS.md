@@ -1,17 +1,29 @@
 ---
-type: posts
-layout: single
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      comments: true
+      share: true
+      related: true
+
 
 title: "AMCS에 대해 알아보자"
 last_modified_at: 2022-08-25
 categories: "Mathematical Consciousness Science"
 tags: "AMCS"
 
-author_profile: true
-
 toc: true
 toc_label: "About AMCS"
 toc_sticky: true	
+
+sidebar:
+  nav: "MCS"
 ---
 
 ## 시작하며…
