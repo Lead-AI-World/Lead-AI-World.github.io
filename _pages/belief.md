@@ -41,7 +41,7 @@ sidebar:
 ## AMCS
 ### 소개
 
-<p align="center"><img src="/assets/images/amcs/img1.png" width=80%></p>
+![AMCS Logo](/assets/images/amcs/img1.png)
 
 &nbsp; [AMCS](https://amcs-community.org/)는 Association for Mathematical Consciousness Science의 약자로, **수학적 의식 과학 협회**를 말합니다. 이 단체는 의식에 대한 과학적 연구의 수학적 논의를 해결하고자 전념하는 국제적인 과학자와 철학자들로 구성되어 있는데요. 이 단체는 최근들어 증가한 의식에 대한 수학적 연구가 의식에 대한 인류의 과학적 이해에 핵심적인 역할을 할 것이라는 기대 하에 설립되었다고 합니다.
 
@@ -57,7 +57,7 @@ sidebar:
 ### 후원 기관
 &nbsp; 그렇다면 도대체 누가 이 협회를 지원하고 있을까요? 바로 아래 9개의 기관입니다. 각 기관의 비전과 임무를 조사해 간략히 요약해 보았습니다.
 
-<p align="center"><img src="/assets/images/amcs/img2.png" width=80%></p>
+![Support Organizations](/assets/images/amcs/img2.png)
 
 	1. FQXi: 실제성Reality을 깊이 이해하기 위해, 관련 연구 프론티어와 혁신적 아이디어를 장려, 지원 및 투자하는 비영리기관입니다.
 	2. Silicon Valley Community Foundation: 박애주의를 실현하며, 세계의 중요한 문제를 해결하는 혁신적 진보를 장려, 지원하는 비영리기관입니다.
@@ -94,7 +94,7 @@ sidebar:
 ### 컨퍼런스
 &nbsp; 2019년도부터 운영된 연례행사로, **의식의 모형**을 주제로 합니다. 수학자, 물리학자, 신경과학자, 전문의, 철학자들이 참여하며 관련 내용을 공유합니다. [2019년](https://www.models-of-consciousness.org/))에는 Oxford에서, [2021년](https://amcs-community.org/events/moc2-2021/)에는 Online으로 운영되었으며, 2020년에는 COVID-19으로 취소되었습니다. 올해 [2022년](https://amcs-community.org/events/moc-3-2022/)에는 Stanford에서 운영될 예정으로, 아래의 연사들이 각 주제를 갖고 참여한다고 합니다.
 
-<p align="center"><img src="/assets/images/amcs/img3.png" width=80%></p>
+![2022 Conference](/assets/images/amcs/img3.png)
 
 ### 세미나
 &nbsp; 수학적 의식 과학을 주제로 한 세미나입니다. [2018-2019](https://seminar.math-consciousness.org/index.html) 기간엔 ‘Mind-Matter Relation’ 세미나, [2020-2021](https://www.mind-matter-relation.org/))기간엔 ‘Mathematical Consciousness Science’ 세미나가 진행되었습니다. 각 페이지는 과거 세미나의 상세 내용과 일정, 녹화본을 확인할 수 있습니다.
@@ -102,7 +102,7 @@ sidebar:
 ### 워크샵
 &nbsp; 워크샵은 보다 비판적이고 창의적인 논의를 위해 컨퍼런스보다 소규모로 운영됩니다. [2019년](https://2019.modelling-consciousness.org/)과 [2022년](https://amcs-community.org/events/cabin-workshop-2022/)에는 오스트리아 잘츠부르크 주에 위치한 Dorfgastein의 한 산장에서 진행됩니다. COVID-19으로 인해 2020년과 2021년에는 운영되지 않았습니다. 아래는 올해 계획된 2022년 워크샵에 대한 정보입니다.
 
-<p align="center"><img src="/assets/images/amcs/img4.png" width=80%></p>
+![2022 Workshop Info.](/assets/images/amcs/img4.png)
 10명만 모집하는 걸 보면 얼마나 짧고 굵게 운영될지 감이 옵니다:) 
  
 ## 마무리하며…
